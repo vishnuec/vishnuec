@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishnuec
+- 👋 Hi, I’m Vishnu Vardhan
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Web Development Projects
